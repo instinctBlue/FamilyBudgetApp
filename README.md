@@ -27,7 +27,7 @@ Here is the main window of the Family Budget App:
 - **C#**
 - **WPF (Windows Presentation Foundation)**
 - **Entity Framework**
-- **JSON
+- JSON
 
 ---
 
