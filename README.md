@@ -8,7 +8,7 @@ A desktop application to manage personal or family expenses and income categorie
 - Simple and clean UI
 
 ## Screenshots
-(Add 1-2 screenshots of your UI here)
+/FamilyBudgetApp.png
 
 ## Tech Stack
 - C#
